@@ -30,7 +30,7 @@ var page = {
         this.onLoad();
         this.bindEvent();
     },
-    onLoad(){
+    onLoad:function(){
         this.loadStepUsername();
     },
     bindEvent : function(){
