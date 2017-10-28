@@ -1,0 +1,16 @@
+/*
+* @Author: dell
+* @Date:   2017-09-11 20:13:09
+* @Last Modified by:   dell
+* @Last Modified time: 2017-09-11 21:12:54
+*/
+.form-line{
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+}
+.form-line .label{
+    display: inline-block;
+    width: 80px;
+    text-align: center;
+}
