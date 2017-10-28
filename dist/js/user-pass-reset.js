@@ -202,7 +202,7 @@ webpackJsonp([14],{
 	        this.onLoad();
 	        this.bindEvent();
 	    },
-	    onLoad(){
+	    onLoad: function(){
 	        this.loadStepUsername();
 	    },
 	    bindEvent : function(){
