@@ -47,7 +47,7 @@ var config = {
      },
      output: {
          path:  __dirname + '/dist/',
-         publicPath : 'dev' === WEBPACK_ENV?'/dist/' :'//s.yuchu.ac.cn/ymail-fe/dist/',
+         publicPath : 'dev' === WEBPACK_ENV?'/dist/' :'//s.yuchu.ac.cn/ymall-fe/dist/',
          filename: 'js/[name].js'
      },
      externals: {
